@@ -8,7 +8,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #df1a1a;
+    background-color: #f9d509;
     color: #333;
     padding: 0 20px;
 }
@@ -74,7 +74,7 @@ h1, h2, h3 {
 
 footer {
     background-color: #333;
-    color: #fff;
+    color: hsl(195, 93%, 52%);
     text-align: center;
     padding: 10px 0;
     position: fixed;
@@ -91,14 +91,14 @@ form input, form textarea {
     width: 100%;
     padding: 10px;
     margin-bottom: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #c9aeae;
     border-radius: 5px;
 }
 
 form button {
     padding: 10px 20px;
     background-color: #333;
-    color: #fff;
+    color: #7e7474;
     border: none;
     border-radius: 5px;
     cursor: pointer;
